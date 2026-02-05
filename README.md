@@ -11,4 +11,4 @@ Currently: Building small projects to learn by doing.
 
 Open to feedback and collaborations.
 
-Reach out:[amini.arman369]
+Reach out:[amini.arman369@gmail.com]
